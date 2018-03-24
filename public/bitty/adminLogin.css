@@ -1,0 +1,7 @@
+.panel-title * {
+	vertical-align: middle;
+}
+.panel-title img {
+	margin-right: 5px;
+	max-width: 18px;
+}

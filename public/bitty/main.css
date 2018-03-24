@@ -1,0 +1,12 @@
+/*body {
+ padding-bottom: 0;
+ background: #fdfcfb;
+ font-size: 16px;
+ }*/
+.inlineBlock {
+	display: inline-block;
+}
+
+[v-cloak] {
+	display: none;
+}
